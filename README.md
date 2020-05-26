@@ -1,7 +1,7 @@
 # GPU-instancing-and-Cast-Shadow-
 
 
-Implemented gpu instancing. And, add cast shadow. It is moving  by curl noise.
+Implemented gpu instancing. And, add cast shadow. It is moving  by curl noise.  
 made by Unity.
 
 
